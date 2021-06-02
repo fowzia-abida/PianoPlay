@@ -59,7 +59,6 @@ header p {
   bottom: 0%;
   left: 20%;
   bottom: 0%;
-  z-index: -1;
 }
 @keyframes jump {
   0% {
